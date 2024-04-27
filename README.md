@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
-</p>
+![wave](https://github.com/MohamedAlaouiMhamdi/MohamedAlaouiMhamdi/assets/98537138/99a89849-b701-43b8-8109-b25645ad9750) </p>
 
 <h1 align="center">Hi 👋, I'm Mohamed Alaoui Mhamdi</h1>
 <h3 align="center">Artificial Intelligence engineering student at Euromed University of Fez</h3>

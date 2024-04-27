@@ -1,5 +1,5 @@
-<p align="center">
-![wave](https://github.com/MohamedAlaouiMhamdi/MohamedAlaouiMhamdi/assets/98537138/99a89849-b701-43b8-8109-b25645ad9750) </p>
+
+![wave](https://github.com/MohamedAlaouiMhamdi/MohamedAlaouiMhamdi/assets/98537138/99a89849-b701-43b8-8109-b25645ad9750) 
 
 <h1 align="center">Hi 👋, I'm Mohamed Alaoui Mhamdi</h1>
 <h3 align="center">Artificial Intelligence engineering student at Euromed University of Fez</h3>

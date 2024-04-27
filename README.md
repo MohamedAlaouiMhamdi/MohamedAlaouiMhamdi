@@ -4,6 +4,11 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Alaoui Mhamdi</h1>
 <h3 align="center">Artificial Intelligence engineering student at Euromed University of Fez</h3>
+🔭 I’m currently focused on integrating Generative AI 🧠 into systems and applications, emphasizing technologies like LangChain 🔗, multi-agent systems 🤖, LLAMA-3 🦙, GPT-4, Hugging Face Transformers 🤗, and Retriever-Augmented Generation 📚(RAG) systems.
+
+🌱 I’m currently learning and exploring new technologies.
+
+💬 Ask me about anything related to AI, ML,NLP, Computer Vision  .
 
 - 📫 How to reach me **al.mh.mohamed@gmail.com**
 

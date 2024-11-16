@@ -3,12 +3,36 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Mohamed Alaoui Mhamdi</h1>
-<h3 align="center">Artificial Intelligence engineering student at Euromed University of Fez</h3>
-🔭 I’m currently focused on integrating Generative AI 🧠 into systems and applications, emphasizing technologies like LangChain 🔗, multi-agent systems 🤖, LLAMA-3 🦙, GPT-4, Hugging Face Transformers 🤗, and Retriever-Augmented Generation 📚(RAG) systems.
+<h3 align="center">AI Engineering Student specializing in Deep Learning, NLP, and Reinforcement Learning</h3>
 
-🌱 I’m currently learning and exploring new technologies.
+### 🎓 About Me
+- 🎯 AI Engineering Student at Euromed University of Fez
+- 🔭 Currently focused on advanced AI technologies and their real-world applications
+- 🤖 Passionate about pushing the boundaries of AI to solve complex challenges
 
-💬 Ask me about anything related to AI, ML,NLP, Computer Vision  .
+### 🚀 Current Focus
+- 🧠 Diving deep into Reinforcement Learning:
+  - Q-Learning, SARSA, and Q-iteration implementations
+  - Exploring Deep Q-Learning and its applications
+  - Combining RL with Deep Learning for enhanced model performance
+  - Using RL to improve generative models
+
+- 🔗 Working with Large Language Models and GenAI:
+  - LangChain and LlamaIndex for RAG systems
+  - Fine-tuning models like Mistral-7B and Zephyr-7B
+  - Multi-agent systems development
+  - Implementing Retrieval-Augmented Generation (RAG)
+  - Experience with LLAMA-3, GPT-4, and Hugging Face Transformers
+
+### 🛠️ Recent Projects
+- 🏥 3D Smart Factory Internship: Developed PointNet-based deep learning model for dental scan segmentation
+- 🌾 Flahti: Agricultural Assistant using RAG with Mistral-7b
+- ⚖️ Legal Assistant: Moroccan law chatbot using RAG techniques
+- 📝 Arabic OCR: Built CNN-RNN model for handwritten text recognition
+- 🎬 CineMatch: Hybrid movie recommendation system
+- 🌿 PlantTech: Mobile-based plant disease detection system
+
+💬 Ask me about anything related to AI, ML, NLP, Computer Vision.
 
 - 📫 How to reach me **al.mh.mohamed@gmail.com**
 
@@ -55,6 +79,4 @@
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-
-
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>

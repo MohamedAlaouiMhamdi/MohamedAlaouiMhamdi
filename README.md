@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Mohamed Alaoui Mhamdi</h1>
-<h3 align="center">AI Engineering Student specializing in Deep Learning, NLP, and Reinforcement Learning</h3>
+<h3 align="center">AI Engineering Student </h3>
 
 ### 🎓 About Me
 - 🎯 AI Engineering Student at Euromed University of Fez

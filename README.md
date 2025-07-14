@@ -5,7 +5,7 @@
 
 ### 🎓 About Me
 - 🧠 **AI Engineer** recently graduated from **Euromed University of Fez**
-- 🔬 Completed research internship at **LIRIS Lab, École Centrale de Lyon**, focusing on **robotic manipulation using behavior cloning**
+- 🔬 i am doing my research internship at **LIRIS Lab, École Centrale de Lyon**, focusing on **robotic manipulation using behavior cloning**
 - 🤖 Passionate about **AI for real-world impact**, especially in reinforcement learning, robotics, NLP, and generative AI
 
 ---

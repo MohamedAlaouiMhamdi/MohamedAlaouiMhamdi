@@ -1,42 +1,42 @@
 <h1 align="center">Hi 👋, I'm Mohamed Alaoui Mhamdi</h1>
-<h3 align="center">Artificial Intelligence Engineer | Robotics & GenAI Enthusiast</h3>
+<h3 align="center">Artificial Intelligence Engineer | Researcher in Robotics, Reinforcement Learning, and Generative AI</h3>
 
 ---
 
-### 🎓 About Me
-- 🧠 **AI Engineer** recently graduated from **Euromed University of Fez**
-- 🔬 i am doing my research internship at **LIRIS Lab, École Centrale de Lyon**, focusing on **robotic manipulation using behavior cloning**
-- 🤖 Passionate about **AI for real-world impact**, especially in reinforcement learning, robotics, NLP, and generative AI
+### 🧭 Research Interests
+- 🤖 **Robot Learning & Control** — Behavior Cloning, Policy Learning, and Diffusion-based Controllers  
+- 🧠 **Reinforcement Learning** — Classical and Deep RL for autonomous decision-making  
+- 🔗 **Generative AI & LLMs** — Retrieval-Augmented Generation, model fine-tuning, and adaptive dialogue systems  
+- 🧩 **Human-Centric AI** — Interpretable, safe, and interactive AI systems  
 
 ---
 
-### 🚀 What I'm Working On
+### 🎓 Academic Background
+- 🎓 **Artificial Intelligence Engineer**, *Euromed University of Fez*  
+- 🔬 **Research Intern**, *LIRIS Lab – École Centrale de Lyon*  
+  - Working on **robotic manipulation via behavior cloning**  
+  - Using **LeRobot** library with **SO-100** and **Franka Emika Panda** robots  
+  - Studying **multi-task vs. single-task policy learning** and **ACT, π₀, and Diffusion** architectures  
+
+---
+
+### 🔬 Research & Technical Experience
+
 #### 🤖 Robotic Learning
-- 🦾 Behavior Cloning, ACT, π₀, Diffusion-based policies
-- 🛠️ Worked with **LeRobot** library and **Franka / SO-100 robots**
-- 🔄 Multi-task vs single-task policy comparison and training
+- Developed imitation learning pipelines using **LeRobot**, integrating **behavior cloning** and **policy evaluation**
+- Experimented with **multi-policy training** and performance comparison across robotic tasks  
+- Investigating **Diffusion-based control policies** for smooth and robust robotic manipulation  
 
-#### 🔗 Generative AI & Large Language Models
-- 🧩 Retrieval-Augmented Generation (RAG) with **LangChain**, **LlamaIndex**
-- 🔧 Fine-tuning with **LoRA** for models like **Mistral-7B**, **Zephyr-7B**
-- ⚙️ Experience with **Hugging Face Transformers**, **LLAMA-3**, **GPT-4**
-- 🧠 Multi-agent systems with GenAI integration
+#### 🧠 Generative AI and Language Models
+- Built **Retrieval-Augmented Generation (RAG)** systems using **LangChain** and **LlamaIndex**  
+- Fine-tuned **Mistral-7B** and **Zephyr-7B** models with **LoRA**, applying **quantization** for deployment efficiency  
+- Familiar with **LLAMA-3**, **GPT-4**, and **multi-agent GenAI architectures**  
 
 #### 📚 Reinforcement Learning
-- 📈 Implemented **Q-Learning**, **SARSA**, **Q-Iteration**
-- 🤖 Exploring Deep RL and using it to boost generative models
+- Implemented classical RL algorithms: **Q-Learning**, **SARSA**, **Value Iteration**  
+- Currently exploring **Deep RL** for improving policy generalization in robotic control  
 
----
-
-### 🛠️ Highlight Projects
-- 🦷 **3D Smart Factory Internship**: 3D teeth segmentation using **PointNet** on dental scans
-- 🌾 **Flahti**: Agricultural assistant chatbot using **RAG** with **Mistral-7B**
-- ⚖️ **Legal Assistant**: RAG-powered legal advisor on **Moroccan law**
-- 📝 **Arabic OCR**: Handwritten text recognition using **CNN-RNN (CRNN)**
-- 🎬 **CineMatch**: ML-powered movie recommendation system
-- 🌿 **PlantTech**: Mobile app for plant disease detection
-
----
+--
 
 ### 💬 Let's Talk
 I'm always open to discussions about:

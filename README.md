@@ -1,42 +1,43 @@
 <h1 align="center">Hi 👋, I'm Mohamed Alaoui Mhamdi</h1>
-<h3 align="center">Artificial Intelligence Engineer | Researcher in Robotics, Reinforcement Learning, and Generative AI</h3>
+<h3 align="center">AI Engineer & Researcher | Computer Vision • NLP • Robotics • Reinforcement Learning • Embodied AI</h3>
 
 ---
 
-### 🧭 Research Interests
-- 🤖 **Robot Learning & Control** — Behavior Cloning, Policy Learning, and Diffusion-based Controllers  
-- 🧠 **Reinforcement Learning** — Classical and Deep RL for autonomous decision-making  
-- 🔗 **Generative AI & LLMs** — Retrieval-Augmented Generation, model fine-tuning, and adaptive dialogue systems  
-- 🧩 **Human-Centric AI** — Interpretable, safe, and interactive AI systems  
+### 🧭 Research Focus
+I’m interested in building **embodied intelligent systems** that can perceive, learn, and act collaboratively with humans.  
+My research integrates:
+- 🧠 **Reinforcement Learning & Imitation Learning** for adaptive decision-making and skill transfer  
+- 🤖 **Robotics & Embodied AI** to teach robots how to learn from demonstrations and interact with the physical world  
+- 👁️ **Computer Vision & NLP** for multimodal perception and natural communication between humans and machines  
 
 ---
 
-### 🎓 Academic Background
-- 🎓 **Artificial Intelligence Engineer**, *Euromed University of Fez*  
-- 🔬 **Research Intern**, *LIRIS Lab – École Centrale de Lyon*  
-  - Working on **robotic manipulation via behavior cloning**  
-  - Using **LeRobot** library with **SO-100** and **Franka Emika Panda** robots  
-  - Studying **multi-task vs. single-task policy learning** and **ACT, π₀, and Diffusion** architectures  
+### 🔬 Current Research
+- 🎓 **Research Intern** at *LIRIS Lab – École Centrale de Lyon*  
+  - Working on **behavior cloning for robotic manipulation** using **LeRobot**  
+  - Exploring **ACT**, **π₀**, and **Diffusion-based policies** for generalization  
+  - Studying **multi-task vs. single-task policy learning** and transferability  
 
 ---
 
-### 🔬 Research & Technical Experience
+### 🚀 Research Interests
+- **Embodied & Interactive AI**  
+- **Reinforcement and Imitation Learning**  
+- **Robotic Perception and Control**  
+- **Vision-Language Models (VLMs)**  
+- **Human-Centric and Responsible AI**
 
-#### 🤖 Robotic Learning
-- Developed imitation learning pipelines using **LeRobot**, integrating **behavior cloning** and **policy evaluation**
-- Experimented with **multi-policy training** and performance comparison across robotic tasks  
-- Investigating **Diffusion-based control policies** for smooth and robust robotic manipulation  
+---
 
-#### 🧠 Generative AI and Language Models
-- Built **Retrieval-Augmented Generation (RAG)** systems using **LangChain** and **LlamaIndex**  
-- Fine-tuned **Mistral-7B** and **Zephyr-7B** models with **LoRA**, applying **quantization** for deployment efficiency  
-- Familiar with **LLAMA-3**, **GPT-4**, and **multi-agent GenAI architectures**  
+### 🧩 Selected Projects
+- 🦾 **Robotic Manipulation via Behavior Cloning** — imitation-based learning using **LeRobot**  
+- 🦷 **3D Smart Factory** — 3D teeth segmentation using **PointNet**  
+- 🌾 **Flahti** — RAG-based agricultural assistant powered by **Mistral-7B**  
+- ⚖️ **Legal Assistant** — **RAG chatbot** providing advice on Moroccan law  
+- 📝 **Arabic OCR** — **CRNN model** for handwritten text recognition  
+- 🌿 **PlantTech** — deep learning app for plant disease detection  
 
-#### 📚 Reinforcement Learning
-- Implemented classical RL algorithms: **Q-Learning**, **SARSA**, **Value Iteration**  
-- Currently exploring **Deep RL** for improving policy generalization in robotic control  
-
---
+---
 
 ### 💬 Let's Talk
 I'm always open to discussions about:
